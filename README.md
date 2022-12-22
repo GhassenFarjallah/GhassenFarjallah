@@ -5,8 +5,6 @@ I'm Ghassen from Tunisia.I enjoy learning languages and I am willing to learn mo
 
 Skills: C/C++ / python / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
 
 
 
