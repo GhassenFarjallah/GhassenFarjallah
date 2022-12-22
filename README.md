@@ -11,7 +11,7 @@ I'm Ghassen from Tunisia.I enjoy learning languages and I am willing to learn mo
 <h2></h2>
    💻HTML/CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GhassenFarjallah)  
