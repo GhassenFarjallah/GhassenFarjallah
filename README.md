@@ -11,5 +11,6 @@ I'm Ghassen from Tunisia.I enjoy learning languages and I am willing to learn mo
    💻HTML/CSS
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhassenFarjallah&show_icons=true&theme=radical)
 
 
