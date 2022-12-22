@@ -1,6 +1,6 @@
 ### Hi there 👋, Ghassen Farjallah
 
-![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/ghassenfarjallah/)
+
 
 I'm Ghassen from Tunisia.I enjoy learning languages and I am willing to learn more about frameworks like React and django. I'm also interested in machine learning and data science .
 
