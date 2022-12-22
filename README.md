@@ -3,7 +3,7 @@
 I'm Ghassen from Tunisia.I enjoy learning languages and I am willing to learn more about frameworks like React and django. I'm also interested in machine learning and data science .
 
 
-##Skills 
+<h1>Skills</h1>
 🕵️C/C++
 ⚔️python
 💻HTML/CSS
